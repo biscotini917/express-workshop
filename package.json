@@ -1,0 +1,27 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "express practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biscotini917/express-workshop.git"
+  },
+  "author": "bruce leong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biscotini917/express-workshop/issues"
+  },
+  "homepage": "https://github.com/biscotini917/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-formidable": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
